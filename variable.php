@@ -1,7 +1,7 @@
 <?php
 $nombre = "eduarda diaz";
 $edad = 20;
-$altura = 1.75;
+$altura = 1.80;
 
 
 echo $nombre;
