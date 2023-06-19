@@ -9,5 +9,6 @@ echo "<br>";
 echo $edad;
 echo "<br>";
 var_dump ($altura); //para saber que tipo de datos es , se utiliza con var_dump
-
+echo "<br>";
+var_dump(50 >= 20);
 ?>
